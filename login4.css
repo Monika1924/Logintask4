@@ -1,0 +1,84 @@
+body{
+    background: url(./images/planet.jpg)no-repeat fixed;
+    background-size: cover;
+    background-position: center;
+}
+.leftside{
+    margin-left: 105px;
+}
+.rightside{
+    margin-right: 40px;
+}
+.rightside li{
+    padding: 5px;
+}
+.square{
+    background-color: rgb(48, 48, 50);
+    width: 23%;
+    margin-left: 39%;
+    margin-top: 75px;
+    border-radius: 5px;
+}
+.square h3{
+    color: white;
+    text-align: center;
+
+}
+.box{
+    width: 85%;
+    margin: auto;
+    font-family: 'Barlow', sans-serif;
+}
+.box input{
+    color: grey;
+    border-radius:5px;
+}
+.buttn{
+    width: 100%;
+}
+.para{
+    margin-left: 30px;
+}
+.righticon{
+    margin-left: 15px;
+
+}
+.righticon a{
+    padding: 7px;
+    font-size: 25px;
+    color: white;
+}
+.footer2{
+    float: right;
+    margin-right: 15%;
+    margin-top: 120px;
+    color: white;
+    text-decoration: none;
+    font-size: smaller;
+    font-family: 'Barlow', sans-serif;
+}
+.footer1{
+    float: left;
+    margin-left: 15%;
+    margin-top: 120px;
+    color: white;
+    text-decoration: none;
+    font-size: smaller;
+    font-family: 'Barlow', sans-serif;
+}
+.footer1 a{
+    color: white;
+    text-decoration: none;
+}
+.footer2 a{
+    color: white;
+    text-decoration: none;
+}
+.footer1 a:hover{
+    text-decoration: underline;
+    color: white;
+}
+.footer2 a:hover{
+    text-decoration: underline;
+    color: white;
+}
